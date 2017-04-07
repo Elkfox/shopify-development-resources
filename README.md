@@ -94,8 +94,6 @@ Ruby is the "official" language of Shopify so it makes sense that there would be
 - ### Demo Apps, Libraries and Addons
   - [Shopify API](https://github.com/Shopify/shopify_api)  
   The official Ruby Gem for the Shopify REST API
-  
-  - 
 
   - [Shopify App Examples](https://github.com/Shopify/example-ruby-app)  
   The official repository for the Shopify API tutorials
@@ -122,3 +120,9 @@ A list of open source working, full apps available for Shopify
 By [Christian Blais](https://github.com/christianblais) from Shopify this is a ruby app similiar to [ITTT](https://ifttt.com) but for Shopify webhooks.
 - [Parcelify](https://github.com/christianblais/parcelify)  
 By [Christian Blais](https://github.com/christianblais) Parcelify lets you create simple yet powerful shipping rates based on address fields.
+
+## <a name="Contributing"></a>Contributing
+If you have an item you want to add to the list feel free to make a fork and make a pull request with you additions
+
+
+By [Elkfox](https://www.elkfox.com)
