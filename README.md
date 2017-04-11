@@ -97,6 +97,9 @@ Ruby is the "official" language of Shopify so it makes sense that there would be
 
   - [Shopify App Examples](https://github.com/Shopify/example-ruby-app)  
   The official repository for the Shopify API tutorials
+  
+  - [Shopify App](https://github.com/Shopify/shopify_app)  
+  Adds a full Shopify API Application environment to your application
 
 - ### Articles and Tutorials
   - [Building a Simple Shopify App](https://code.tutsplus.com/articles/building-a-simple-shopify-app--cms-26198)  
