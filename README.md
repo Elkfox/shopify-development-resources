@@ -78,6 +78,8 @@ There are tons of great resources and libraries available for Python. They're ju
 
   - [eslint-plugin-shopify](https://github.com/Shopify/eslint-plugin-shopify)  
   An ESLint plugin that contains all the rules used by Shopify for linting their javascript
+  - [shopify-node-app](https://github.com/Elkfox/shopify-node-app)
+  A skeleton node/express app to help ease the pain for prototyping a Shopify app.
 
 - ### Articles, Tutorials and Other Text Based Resources.
   - [How to Make the Most of the Shopify Embedded App SDK](https://www.shopify.com.au/partners/blog/75776707-how-to-make-the-most-of-the-shopify-embedded-app-sdk)  
