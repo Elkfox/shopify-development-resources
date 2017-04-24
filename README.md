@@ -17,6 +17,12 @@ It can be hard to find resources on building Shopify apps so I've compiled a col
 ## <a name="General"></a>General
 A list of resources that apply to every language.
 
+- [Polaris](https://polaris.shopify.com/)  
+Shopify's style guide for building embedded app interfaces.
+
+- [Polaris React Components](https://github.com/shopify/polaris)  
+Shopify's React component library. Usefully for building embedded app interfaces.
+
 - [Supported Libraries](https://help.shopify.com/api/supported-libraries)  
 A list of supported and third party libraries Shopify recommends.
 
