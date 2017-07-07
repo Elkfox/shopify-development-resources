@@ -42,7 +42,10 @@ An article that covers the basic workflow of building a Shopify app.
 An article by [Chris Houghton](https://twitter.com/CJHoughton) about things he learnt when building his first Shopify app.
 
 - [Building a Shopify App that Sells](https://www.shopify.com/partners/blog/64209347-4-tips-for-building-a-shopify-app-that-sells)  
-An article on how to build a best selling app
+An article on how to build a best selling app  
+
+- [Design Your Store Faster With Product CSVs and Images](https://www.shopify.ca/partners/blog/93467590-design-your-store-faster-with-product-csvs-and-images)  
+A blog post with resources to populate your demo stores with products so you don't have to waste precious development time filling them out yourself.
 ---
 
 ## <a name="Python"></a>Python
