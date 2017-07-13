@@ -29,6 +29,9 @@ A list of supported and third party libraries Shopify recommends.
 - [Shopify API Reference](https://help.shopify.com/api/reference)  
 The official and original shopify API Reference.
 
+- [Shopify Storefront API Reference](https://help.shopify.com/api/storefront-api)
+The official documentation for Shopifys new Storefront API. Build stores into just about any website using React and GraphQL!
+
 - [Using Webhooks](https://help.shopify.com/api/getting-started/webhooks)  
 Shopify's guide to using webhooks and authenticating them from the source.
 
@@ -46,6 +49,9 @@ An article on how to build a best selling app
 
 - [Design Your Store Faster With Product CSVs and Images](https://www.shopify.ca/partners/blog/93467590-design-your-store-faster-with-product-csvs-and-images)  
 A blog post with resources to populate your demo stores with products so you don't have to waste precious development time filling them out yourself.
+
+- [How To GraphQL](https://www.howtographql.com/)  
+The fullstack tutorial for GrpahQL. If you want to give Shopifys new [Storefront API](https://help.shopify.com/api/storefront-api) a go then I recommend checking out this fullstack tutorial. It will teach you everything you need to know to get started with GraphQL.
 ---
 
 ## <a name="Python"></a>Python
