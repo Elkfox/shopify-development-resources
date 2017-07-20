@@ -53,7 +53,7 @@ A blog post with resources to populate your demo stores with products so you don
 - [How To GraphQL](https://www.howtographql.com/)  
 The fullstack tutorial for GrpahQL. If you want to give Shopifys new [Storefront API](https://help.shopify.com/api/storefront-api) a go then I recommend checking out this fullstack tutorial. It will teach you everything you need to know to get started with GraphQL.
 
-- [Shopify Partner Training Courses](https://partner-training.shopify.com/my_courses)
+- [Shopify Partner Training Courses](https://partner-training.shopify.com/my_courses)  
 Learn from other successful Shopify Partners by taking free educational courses.
 
 ---
