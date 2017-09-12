@@ -30,7 +30,7 @@ A list of supported and third party libraries Shopify recommends.
 The official and original shopify API Reference.
 
 - [Shopify Storefront API Reference](https://help.shopify.com/api/storefront-api)
-The official documentation for Shopifys new Storefront API. Build stores into just about any website using React and GraphQL!
+The official documentation for Shopify's new Storefront API. Build stores into just about any website using React and GraphQL!
 
 - [Using Webhooks](https://help.shopify.com/api/getting-started/webhooks)  
 Shopify's guide to using webhooks and authenticating them from the source.
@@ -51,7 +51,7 @@ An article on how to build a best selling app
 A blog post with resources to populate your demo stores with products so you don't have to waste precious development time filling them out yourself.
 
 - [How To GraphQL](https://www.howtographql.com/)  
-The fullstack tutorial for GrpahQL. If you want to give Shopifys new [Storefront API](https://help.shopify.com/api/storefront-api) a go then I recommend checking out this fullstack tutorial. It will teach you everything you need to know to get started with GraphQL.
+The fullstack tutorial for GraphQL. If you want to give Shopify's new [Storefront API](https://help.shopify.com/api/storefront-api) a go then I recommend checking out this fullstack tutorial. It will teach you everything you need to know to get started with GraphQL.
 
 - [Shopify Partner Training Courses](https://partner-training.shopify.com/my_courses)  
 Learn from other successful Shopify Partners by taking free educational courses.
@@ -93,7 +93,7 @@ There are tons of great resources and libraries available for Python. They're ju
   The most popular and most user friendly Shopify API Interface for Node.
 
   - [CartJS](https://cartjs.org/)  
-  A fantastic library by [Gavin Ballard](http://www.gavinballard.com) and DiscoLabs that uses Shopifys AJAX Cart API and Rivets to make adding things to Shopify Store carts so much easier!
+  A fantastic library by [Gavin Ballard](http://www.gavinballard.com) and DiscoLabs that uses Shopify's AJAX Cart API and Rivets to make adding things to Shopify Store carts so much easier!
 
   - [eslint-plugin-shopify](https://github.com/Shopify/eslint-plugin-shopify)  
   An ESLint plugin that contains all the rules used by Shopify for linting their javascript
