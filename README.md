@@ -140,13 +140,13 @@ Ruby is the "official" language of Shopify so it makes sense that there would be
 
 ## <a name="ThemeDevelopment"></a> Theme Development
 
-- [Themekit](https://shopify.github.io/themekit)
+- [Themekit](https://shopify.github.io/themekit) 
 Shopify's theme development command line tool
 
-- [Slate](https://shopify.github.io/slate)
+- [Slate](https://shopify.github.io/slate) 
 A theme scaffold and command line tool for developing Shopify themes
 
-- [Concrete](https://github.com/Elkfox/Concrete)
+- [Concrete](https://github.com/Elkfox/Concrete) 
 By [Elkfox](Elkfox), Concrete is a lightweight framework for building Shopify themes, supporting Slate and other methods
 
 ---
