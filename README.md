@@ -1,5 +1,5 @@
 # Shopify Development Resources
-It can be hard to find resources on building Shopify apps so I've compiled a collection of the best resources I've found to get you going in the world of Shopify App Development.
+It can be hard to find the right resources for building Shopify apps and themes. Here's the best resources we've found to get you going in the world of Shopify app and theme development.
 
 
 
