@@ -140,13 +140,13 @@ Ruby is the "official" language of Shopify so it makes sense that there would be
 
 ## <a name="ThemeDevelopment"></a> Theme Development
 
-- [Themekit](https://shopify.github.io/themekit) 
+- [Themekit](https://shopify.github.io/themekit)  
 Shopify's theme development command line tool
 
-- [Slate](https://shopify.github.io/slate) 
+- [Slate](https://shopify.github.io/slate)  
 A theme scaffold and command line tool for developing Shopify themes
 
-- [Concrete](https://github.com/Elkfox/Concrete) 
+- [Concrete](https://github.com/Elkfox/Concrete)  
 By [Elkfox](Elkfox), Concrete is a lightweight framework for building Shopify themes, supporting Slate and other methods
 
 ---
@@ -156,6 +156,7 @@ A list of open source working, full apps available for Shopify
 
 - [Triggerify](https://github.com/christianblais/triggerify)  
 By [Christian Blais](https://github.com/christianblais) from Shopify, this ruby app is similiar to [ITTT](https://ifttt.com), but for Shopify webhooks.
+
 - [Parcelify](https://github.com/christianblais/parcelify)  
 By [Christian Blais](https://github.com/christianblais) Parcelify lets you create simple yet powerful shipping rates based on address fields.
 
