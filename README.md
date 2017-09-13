@@ -9,8 +9,9 @@ It can be hard to find resources on building Shopify apps so I've compiled a col
 2. [Python](#Python)
 3. [Javascript](#Javascript)
 4. [Ruby](#Ruby)
-5. [Open Source Apps](#OpenSource)
-5. [Contributing](#Contributing)
+4. [Theme Development](#ThemeDevelopment)
+6. [Open Source Apps](#OpenSource)
+7. [Contributing](#Contributing)
 
 
 
