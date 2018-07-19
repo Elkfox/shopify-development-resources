@@ -157,8 +157,8 @@ A list of open source working, full apps available for Shopify
 - [Triggerify](https://github.com/christianblais/triggerify)  
 By [Christian Blais](https://github.com/christianblais) from Shopify, this ruby app is similiar to [ITTT](https://ifttt.com), but for Shopify webhooks.
 
-- [Parcelify](https://github.com/christianblais/parcelify)  
-By [Christian Blais](https://github.com/christianblais) Parcelify lets you create simple yet powerful shipping rates based on address fields.
+<s>- [Parcelify](https://github.com/christianblais/parcelify)  
+By [Christian Blais](https://github.com/christianblais) Parcelify lets you create simple yet powerful shipping rates based on address fields.</s>
 
 ## <a name="Contributing"></a>Contributing
 If you have an item you want to add to the list feel free to make a fork and make a pull request with you additions
